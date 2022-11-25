@@ -1,0 +1,59 @@
+.card{
+    margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 3%;
+  background-image: url("../assets/bg.jpg");
+  
+  padding-left: 80px;
+  padding-right: 80px;
+  }
+
+  i {
+    float: left;
+    
+      display: inline-block;
+      margin-right: 1em;
+      padding-left: 80px;
+      
+  }   
+  .line {
+      height: 1px;
+      border: none;
+      border-top: 10px solid rgb(0, 0, 0);
+      padding-left: 80px;
+  }
+  .line2 {
+      height: 1px;
+      border: none;
+      border-top: 8px solid black;
+      padding-left: 80px;
+  }
+  .colorline
+      {
+          background-color: rgb(206, 159, 179);
+          padding-left: 8px;
+        }
+         
+      
+      .img{
+        margin-top: 80px;
+        margin-left: 50px;
+      }
+      .details{
+        /* margin-left: 80px */
+        padding-left: 80px;
+  
+      }
+      h5{
+        padding-left: 0px;
+        font-size: 30px;
+      }
+     .email{
+        margin-top: 40px;
+       margin-right: 0px;
+      }
+      .btn{
+        margin-left: 530px;
+       
+      }
+  
