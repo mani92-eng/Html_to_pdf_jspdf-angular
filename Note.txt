@@ -1,0 +1,16 @@
+importent installed
+
+npm install jquery --save
+npm install --save @types/jquery
+npm i jspdf
+npm i html2canvas
+
+than change (tsconfig.app.json)
+ "types": ["jquery"]
+ 
+ than add(anglar.json)
+ "scripts": [
+              "./node_modules/jquery/dist/jquery.js"
+
+
+
